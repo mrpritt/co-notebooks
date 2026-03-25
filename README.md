@@ -7,3 +7,4 @@ Notebooks for "Combinatorial optimization" (used in my [course at UFRGS ](https:
 - 🍹 [drinks](notebooks/drinks.ipynb) — Blend the ideal drink from ingredients at minimum cost
 - 🏠 [construction](notebooks/construction.ipynb) — Schedule house construction stages to minimize total duration
 - 👮 [police](notebooks/police.ipynb) — Assign police officers to shifts to meet minimum daily requirements
+- 🥃 [whisky](notebooks/whisky.ipynb) — Blend imported whiskies into mixtures to maximize profit
